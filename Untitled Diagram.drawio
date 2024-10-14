@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="hM2xaqLaM9kXfvrjTJUC">
-    <mxGraphModel dx="2791" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2981" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,13 +119,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RwSFmMSZ676aGIv1vrAS-52" value="Static Slicing Algorithms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1210" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1210" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RwSFmMSZ676aGIv1vrAS-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RwSFmMSZ676aGIv1vrAS-53" target="RwSFmMSZ676aGIv1vrAS-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RwSFmMSZ676aGIv1vrAS-53" value="Dynamic Slicing Algorithms&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-915" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="-915" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RwSFmMSZ676aGIv1vrAS-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RwSFmMSZ676aGIv1vrAS-36" target="RwSFmMSZ676aGIv1vrAS-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -173,16 +173,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RwSFmMSZ676aGIv1vrAS-61" value="Performance Metrics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1055" y="1120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1060" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RwSFmMSZ676aGIv1vrAS-62" value="Packet Error Probability&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1230" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1235" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RwSFmMSZ676aGIv1vrAS-63" value="Latency" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1055" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1060" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RwSFmMSZ676aGIv1vrAS-64" value="Energy Efficiency&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-880" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-885" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RwSFmMSZ676aGIv1vrAS-71" value="WiFi access point" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1067.5" y="260" width="105" height="30" as="geometry" />
